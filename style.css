@@ -15,4 +15,6 @@ body {
   height: 25px;
   background-color: pink;
   position: relative;
+  left: 0;
+  top: 0;
 }
